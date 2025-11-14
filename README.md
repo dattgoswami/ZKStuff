@@ -1,2 +1,25 @@
-# ZKStuff
-zk resources
+# ZK Resources
+1. [ZKVM Benchmarks](https://github.com/lurk-lab/zkvm-benchmarks)
+2. [Lurk Lang](https://github.com/lurk-lab/lurk)
+3. [Recursive SNARK](https://github.com/lurk-lang/arecibo) / [Microsoft's Nova](https://github.com/microsoft/Nova)
+4. [More ZKVM Benchmarks](https://github.com/a16z/zkvm-benchmarks)
+5. [Ventali's Awesome ZK](https://github.com/ventali/awesome-zk)
+6. [Plonk ZKP](https://github.com/EspressoSystems/jellyfish)
+7. [Valida](https://github.com/valida-xyz/valida) / [Valida](https://github.com/lita-xyz/valida-vm) / [Valida](https://github.com/valida-xyz/valida)
+8. [Spartan](https://github.com/microsoft/Spartan)
+9. [Plonk](https://github.com/dusk-network/plonk)
+10. [Plonky2](https://github.com/0xPolygonZero/plonky2)
+11. [Groth16](https://github.com/arkworks-rs/groth16)
+12. [Snark](https://github.com/arkworks-rs/snark)
+13. [R1CS](https://github.com/arkworks-rs/r1cs-std)
+14. [zkSNARK](https://github.com/zkcrypto/bellman)
+15. [Noir Lang](https://github.com/noir-lang/awesome-noir)
+16. [Oxide Package Manager](https://github.com/IronMill-xyz/ironmill-oxide)
+17. [PIOPs](https://github.com/Plonky3/Plonky3)
+18. [groth16 Solana](https://github.com/Lightprotocol/groth16-solana)
+19. [Valida Compiler](https://github.com/valida-xyz/valida-compiler)
+20. [Inference in zkML](https://github.com/zkonduit/ezkl)
+    
+## Misc Cryptograghy
+1. [TFHE Rust](https://github.com/zama-ai/tfhe-rs)
+2. [TFHE Compiler](https://github.com/zama-ai/concrete)
